@@ -1,0 +1,125 @@
+body{
+    margin: 0%;
+    background-color: whitesmoke;
+}
+
+header{
+    height: 500px;
+    width: auto;
+    color: white;
+    background-image: url(https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSyH4y7SgpLBMf9Y8JvBGYgzkn_zJuZf6PgeFHzPRhw3WVzabPR893USTdojzAjAI1s);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+header h1{
+    
+    max-width: 750px;
+    background-size: cover;
+    font-family: serif;
+    font-size: 36px;
+    font-weight: normal;
+    display: inline-block;
+    margin-left: 10cm;
+    text-align: center;
+    margin-top: 190px;
+    
+}
+
+.foto{
+  position: relative;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  border-radius: 100%;
+  margin: center;
+  margin-top: -50px;
+  border: 1px solid white;
+}
+
+.perfil{
+    text-align: center;
+    
+}
+
+.nombre{
+    height: 7;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.actualizacion{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: italic;
+    color: rgb(51, 51, 51);
+    line-height: 24px;
+}
+
+.separacion1{
+width: 66.67%;
+height: 60px;
+margin-top: 40px;
+
+}
+
+
+.numeracion{
+    margin-left: 310px;
+    width: 10px;
+    display: inline-block;
+    color: rgb(0,0 ,0 ,0.25);
+    font-family: serif;
+        font-size: 36px;
+        font-weight: bold;
+}
+
+.comida{
+        width: 50%;
+        height: 5px;
+        display: inline-block;
+        margin: 40px;
+        font-family: serif;
+        font-size: 36px;
+        font-weight: bold;
+    color: rgb(51, 51, 51);
+}
+
+.contenido1{
+    height: 10px;
+    margin-left: 370px;
+    margin-top: -10px;
+    color: rgb(17, 172, 192)
+}
+
+.separacion2{
+    width: 66.67%;
+    height: 20px;
+
+    
+    }
+    .separacion3{
+        width: 66.67%;
+        height: 120px;
+        
+        }
+
+.parrafo{
+    margin: auto;
+    width: 600px;
+    font-family: sans-serif;
+    font-size: 18px;
+    line-height: 32px;
+    color: rgb(51, 51, 51);
+    font-style: justify;
+}
+
+.imgReferencia{
+    height: 500px;
+    width: 66.67%;
+    display: block;
+    margin: auto;
+    background-size: cover;
+}
